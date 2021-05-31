@@ -1,0 +1,870 @@
+["INFO" - 7:46:26 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 7:46:26 PM] Extension Version: 6.3.2.
+["INFO" - 7:46:57 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 7:46:57 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 7:46:57 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 7:46:57 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:46:57 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 7:46:57 PM] Formatting completed in 240.524546ms.
+["INFO" - 7:47:03 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 7:47:03 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 7:47:03 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 7:47:03 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:47:03 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 7:47:03 PM] Formatting completed in 69.821019ms.
+["INFO" - 7:48:03 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 7:48:03 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 7:48:03 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 7:48:03 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:48:03 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 7:48:03 PM] Formatting completed in 56.154853ms.
+["INFO" - 7:48:06 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 7:48:06 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 7:48:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 7:48:06 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:48:06 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 7:48:07 PM] Formatting completed in 53.478511ms.
+["INFO" - 7:48:22 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 7:48:22 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 7:48:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 7:48:22 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:48:22 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 7:48:22 PM] Formatting completed in 65.17953ms.
+["INFO" - 7:48:33 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 7:48:33 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 7:48:33 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 7:48:33 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:48:33 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 7:48:33 PM] Formatting completed in 44.46163ms.
+["INFO" - 7:48:36 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 7:48:36 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 7:48:36 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 7:48:36 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:48:36 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 7:48:36 PM] Formatting completed in 58.249403ms.
+["INFO" - 7:48:40 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 7:48:40 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 7:48:40 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 7:48:40 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:48:40 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 7:48:40 PM] Formatting completed in 74.06497ms.
+["INFO" - 7:48:48 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 7:48:48 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 7:48:48 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 7:48:48 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:48:48 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 7:48:48 PM] Formatting completed in 51.338346ms.
+["INFO" - 7:49:04 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 7:49:04 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 7:49:04 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 7:49:04 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:49:04 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 7:49:04 PM] Formatting completed in 37.829261ms.
+["INFO" - 8:38:29 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:38:29 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:38:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:38:29 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:29 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:38:29 PM] Formatting completed in 46.052181ms.
+["INFO" - 8:39:20 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:39:20 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:39:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:39:20 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:20 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:39:20 PM] Formatting completed in 77.040833ms.
+["INFO" - 8:39:24 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:39:24 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:39:24 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:39:24 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:24 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:39:24 PM] Formatting completed in 39.586861ms.
+["INFO" - 8:39:39 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:39:39 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:39:39 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:39:39 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:39 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:39:39 PM] Formatting completed in 58.348519ms.
+["INFO" - 8:39:41 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:39:41 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:39:41 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:39:41 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:41 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:39:41 PM] Formatting completed in 42.155047ms.
+["INFO" - 8:39:43 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:39:43 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:39:43 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:39:43 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:43 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:39:43 PM] Formatting completed in 55.967522ms.
+["INFO" - 8:39:44 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:39:44 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:39:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:39:44 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:44 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:39:44 PM] Formatting completed in 41.655247ms.
+["INFO" - 8:39:45 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:39:45 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:39:45 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:39:45 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:45 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:39:45 PM] Formatting completed in 38.229227ms.
+["INFO" - 8:39:47 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:39:47 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:39:47 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:39:47 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:47 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:39:47 PM] Formatting completed in 40.075988ms.
+["INFO" - 8:39:49 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:39:49 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:39:49 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:39:49 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:49 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:39:50 PM] Formatting completed in 111.983118ms.
+["INFO" - 8:39:54 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:39:54 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:39:54 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:39:54 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:54 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:39:54 PM] Formatting completed in 52.627127ms.
+["INFO" - 8:39:58 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:39:58 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:39:58 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:39:58 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:58 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:39:58 PM] Formatting completed in 49.340955ms.
+["INFO" - 8:40:00 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:40:00 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:40:00 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:40:00 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:00 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:40:00 PM] Formatting completed in 36.347644ms.
+["INFO" - 8:40:01 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:40:01 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:40:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:40:01 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:01 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:40:01 PM] Formatting completed in 60.071701ms.
+["INFO" - 8:40:05 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:40:05 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:40:05 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:40:05 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:05 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:40:05 PM] Formatting completed in 38.163353ms.
+["INFO" - 8:40:17 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:40:17 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:40:17 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:40:17 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:17 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:40:17 PM] Formatting completed in 46.943731ms.
+["INFO" - 8:40:55 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:40:55 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:40:55 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:40:55 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:55 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:40:55 PM] Formatting completed in 32.237192ms.
+["INFO" - 8:40:58 PM] Formatting /home/kali/frontend/docker-compose.yml
+["INFO" - 8:40:58 PM] Using ignore file (if present) at /home/kali/frontend/.prettierignore
+["INFO" - 8:40:58 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:40:58 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:58 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/kali/frontend/docker-compose.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:40:58 PM] Formatting completed in 47.690052ms.
