@@ -1,4 +1,4 @@
-FROM node:13.12.0-alpine as builder
+FROM node:alpine
 WORKDIR '/app'
 COPY package*.json ./
 RUN npm install
